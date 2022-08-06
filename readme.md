@@ -17,12 +17,26 @@ This project is an extension to my website and is used in the description of all
 
 ## Deployment
 
-To deploy this project clone the project on github, edit the links or any elements you'd like and run:
+To deploy this project clone (or fork) the project on github, edit the links or any elements you'd like and run:
 
+With npm/npx:
+```bash
+  npm install
+```
 ```bash
   npx next dev
 ```
 
-To host the site for free visit: [Vercel](https://vercel.com)
+With yarn:
+```bash
+  yarn
+```
+```bash
+  yarn next dev
+```
 
-You are free to clone this and use as you'd like, however crediting me is much appreciated. ;)
+(for yarn replace `npx` with `yarn`)
+
+To host the site for free visit: [Vercel.com](https://vercel.com) and link it to your github fork. From there you can deploy it to your own domain or use vercels subdomain system.
+
+You are free to clone this and use as you'd like, however crediting me is much appreciated. I also appreciate any feedback and contributions you may have.

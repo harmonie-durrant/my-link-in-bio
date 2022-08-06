@@ -21,5 +21,5 @@ module.exports = {
         // backgroundColor: ['responsive', 'hover', 'focus', 'active'],
         extend: {},
     },
-    plugins: []
+    plugins: [require("daisyui")]
 }
