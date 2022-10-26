@@ -18,7 +18,9 @@ export default function MyApp({ Component, pageProps }) {
     return (
         <div>
             <Head>
-                <title>Link In Bio</title>
+                <title>Reuban Bryenton | Link In Bio</title>
+                <link rel="manifest" href="/manifest.json" />
+                <link rel="icon" href="favicon.ico" />
             </Head>
             <Component {...pageProps} />
         </div>

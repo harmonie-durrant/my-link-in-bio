@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+.btn {
+    @apply transition;
+    @apply ease-in-out;
+    @apply hover:scale-105;
+}
