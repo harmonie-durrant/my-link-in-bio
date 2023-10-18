@@ -34,10 +34,10 @@ export default function Home() {
     return (
         <main ref={vantaRef} className="w-screen min-h-screen flex flex-col justify-center items-center text-white">
             <div className="max-w-5xl h-full flex flex-col text-center justify-center items-center">
-                <p className="text-6xl font-bold mb-4">Reuban Bryenton</p>
+                <p className="text-6xl font-bold mb-4">Harmonie Durrant</p>
                 <p className="text-2xl font-semibold mb-16">All of these links will take you to one of my many social media or websites/projects</p>
                 <a
-                    href="https://github.com/reuban-bryenton"
+                    href="https://github.com/harmonie-durrant"
                     className="mb-4 w-[80%] h-auto flex justify-center items-center"
                 >
                     <button className="btn w-full text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800">
@@ -50,7 +50,7 @@ export default function Home() {
                     </button>   
                 </a>
                 <a
-                    href="https://instagram.com/reuban_bryenton"
+                    href="https://instagram.com/harmonie_drnt"
                     className="mb-4 w-[80%] h-auto flex flex-col justify-center items-center"
                 >
                     <button type="button" className="btn w-full text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800">
@@ -58,7 +58,7 @@ export default function Home() {
                     </button> 
                 </a>
                 <a
-                    href="https://www.linkedin.com/in/reuban-bryenton-920724235"
+                    href="https://www.linkedin.com/in/harmonie-durrant"
                     className="mb-4 w-[80%] h-auto flex justify-center items-center"
                 >
                     <button type="button" className="btn w-full text-white bg-gradient-to-r from-cyan-500 to-blue-500 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-cyan-300 dark:focus:ring-cyan-800">
@@ -78,7 +78,7 @@ export default function Home() {
                     </button>
                 </a>
                 <a
-                    href="https://reubanbryenton.com"
+                    href="https://harmoniedurrant.com"
                     className="mb-4 w-[80%] h-auto flex flex-col justify-center items-center"
                 >
                     <button type="button" className="btn w-full text-white bg-gradient-to-br from-purple-500 to-blue-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-purple-800">

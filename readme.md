@@ -1,4 +1,4 @@
-# Reuban's Link In Bio
+# Link In Bio
 
 This project is an extension to my website and is used in the description of all my social media accounts to redirect users to any of my other social media accounts, my website and even other events or projects I may want highlighted.
 
@@ -12,7 +12,7 @@ This project is an extension to my website and is used in the description of all
 
 ## Author
 
-- [@reuban-bryenton](https://www.github.com/reuban-bryenton)
+- [@harmonie-durrant](https://www.github.com/harmonie-durrant)
 
 
 ## Deployment
