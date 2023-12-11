@@ -71,10 +71,11 @@ export default function Home() {
                     </button>
                 </a>
                 <a
+                    href="https://blog.harmoniedurrant.com"
                     className="mb-4 w-[80%] h-auto flex justify-center items-center"
                 >
                     <button type="button" className="btn w-full text-white bg-gradient-to-r from-[#F2B5D4] to-[#F7D6E0] hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-purple-800">
-                        My personal project 🤫 (SOON)
+                        Harmonie's World (My Blog)
                     </button>
                 </a>
                 <a
