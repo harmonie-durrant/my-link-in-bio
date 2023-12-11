@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Reuban Bryenton | Link in bio'",
-    "short_name": "Reuban",
-    "description": "PWA App for Reuban's Link in bio",
+    "name": "Harmonie Durrant | Link in bio'",
+    "short_name": "Harmonie LIB",
+    "description": "PWA App for Harmonie's Link in bio",
     "icons": [
         {
             "src": "/icon-192x192.png",
