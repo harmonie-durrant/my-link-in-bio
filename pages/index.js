@@ -37,7 +37,7 @@ export default function Home() {
 
     return (
         <main ref={vantaRef} className="w-screen min-h-screen flex flex-col justify-center items-center text-white">
-            <div className="max-w-xl h-full flex flex-col text-center justify-center items-center overflow-y-scroll">
+            <div className="w-screen -full flex flex-col text-center justify-center items-center overflow-x-visible overflow-y-scroll">
                 <div className="avatar my-4">
                     <div className="w-36 rounded-full ring ring-white ring-offset-base-100 ring-offset-2">
                         <img src="/harmonie.jpg" />
