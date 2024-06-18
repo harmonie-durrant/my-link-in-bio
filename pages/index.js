@@ -55,6 +55,7 @@ export default function Home() {
                 <LinkButton title="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
                 <CategoryDividor title="Projects" />
                 <LinkButton title="Wiki42" url="https://wiki42.harmoniedurrant.com" />
+                <LinkButton title="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
             </div>
         </main>
     )
