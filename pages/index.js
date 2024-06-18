@@ -43,11 +43,11 @@ export default function Home() {
                         <img src="/harmonie.jpg" />
                     </div>
                 </div>
-                <p className="text-4xl font-bold mb-4">
+                <div className="text-4xl font-bold mb-4">
                     <h1 href="https://www.harmoniedurrant.com/">
                         Harmonie
                     </h1>
-                </p>
+                </div>
                 <LinkButton title="My Portfolio" url="https://harmoniedurrant.com" />
                 <CategoryDividor title="Socials" />
                 <LinkButton title="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
