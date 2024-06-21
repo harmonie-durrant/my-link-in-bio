@@ -8,6 +8,7 @@ export default function SocialButtons({name, url}) {
             <a
                 className="btn btn-ghost w-full my-2 justify-between h-14"
                 target="_blank"
+                rel="noreferrer"
                 href={"https://www.linkedin.com/sharing/share-offsite/?url=" + url}
                 data-share-url={url}
                 data-testid="ShareModal-ShareLink"
@@ -19,6 +20,7 @@ export default function SocialButtons({name, url}) {
             <a
                 className="btn btn-ghost w-full my-2 justify-between h-14"
                 target="_blank"
+                rel="noreferrer"
                 href={"mailto:?subject= Check out this link! &amp;body= " + name + " - " + url}
                 data-share-url={url}
                 data-testid="ShareModal-ShareLink"

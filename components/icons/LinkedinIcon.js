@@ -1,7 +1,7 @@
 export default function LinkedinIcon() {
     return(
         <div className="size-8">
-            <svg viewBox="0 0 24 24" data-testid="ShareIcon-linkedin" shape="rect" enable-background="new 0 0 24 24" class="sc-gKsewC fzJjte">
+            <svg viewBox="0 0 24 24" data-testid="ShareIcon-linkedin" shape="rect" enableBackground="new 0 0 24 24" class="sc-gKsewC fzJjte">
                 <g clip-path="url(#clip0_657_585)">
                     <rect width="100%" height="100%" rx="4" fill="#0A66C2">
                     </rect>
