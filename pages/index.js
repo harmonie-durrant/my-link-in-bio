@@ -48,14 +48,14 @@ export default function Home() {
                         Harmonie
                     </h1>
                 </div>
-                <LinkButton title="My Portfolio" url="https://harmoniedurrant.com" />
-                <CategoryDividor title="Socials" />
-                <LinkButton title="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
-                <LinkButton title="📷 Instagram" url="https://instagram.com/harmonie_drnt" />
-                <LinkButton title="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
-                <CategoryDividor title="Projects" />
-                <LinkButton title="Wiki42" url="https://wiki42.harmoniedurrant.com" />
-                <LinkButton title="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
+                <LinkButton name="My Portfolio" url="https://harmoniedurrant.com" />
+                <CategoryDividor name="Socials" />
+                <LinkButton name="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
+                <LinkButton name="📷 Instagram" url="https://instagram.com/harmonie_drnt" />
+                <LinkButton name="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
+                <CategoryDividor name="Projects" />
+                <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
+                <LinkButton name="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
             </div>
         </main>
     )
