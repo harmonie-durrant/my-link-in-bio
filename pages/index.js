@@ -49,13 +49,29 @@ export default function Home() {
                     </h1>
                 </div>
                 <LinkButton name="My Portfolio" url="https://harmoniedurrant.com" />
-                <CategoryDividor name="Socials" />
-                <LinkButton name="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
-                <LinkButton name="📷 Instagram" url="https://instagram.com/harmonie_drnt" />
-                <LinkButton name="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
-                <CategoryDividor name="Projects" />
-                <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
-                <LinkButton name="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
+                {/* Socials collapse */}
+                <div className="collapse justify-center">
+                    <input type="checkbox" className="peer" defaultChecked={true} />
+                    <div className="collapse-title pe-0">
+                        <CategoryDividor name="Socials" />
+                    </div>
+                    <div className="collapse-content">
+                        <LinkButton name="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
+                        <LinkButton name="📷 Instagram" url="https://instagram.com/harmonie_drnt" />
+                        <LinkButton name="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
+                    </div>
+                </div>
+                {/* Projects collapse */}
+                <div className="collapse justify-center">
+                    <input type="checkbox" className="peer" defaultChecked={true} />
+                    <div className="collapse-title pe-0">
+                        <CategoryDividor name="Projects" />
+                    </div>
+                    <div className="collapse-content">
+                        <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
+                        <LinkButton name="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
+                    </div>
+                </div>
             </div>
         </main>
     )
