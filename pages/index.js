@@ -49,6 +49,7 @@ export default function Home() {
                     </h1>
                 </div>
                 <LinkButton name="My Portfolio" url="https://harmoniedurrant.com" />
+                <LinkButton name="My CV" url="https://www.canva.com/design/DAGKkS0IV8o/dGJ_4CPAH5uQKSCxBZTbug/view?utm_content=DAGKkS0IV8o&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
                 {/* Socials collapse */}
                 <div className="collapse justify-center">
                     <input type="checkbox" className="peer" defaultChecked={true} />
@@ -69,7 +70,8 @@ export default function Home() {
                     </div>
                     <div className="collapse-content">
                         <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
-                        <LinkButton name="Portfolio (Dev build)" url="https://dev.harmoniedurrant.com" />
+                        <LinkButton name="Ash Smoked Fishes" url="https://www.ashsmokedfishes.co.uk/" />
+                        <LinkButton name="Clickn' Circles" url="https://harmonie-durrant.itch.io/clickn-circles" />
                     </div>
                 </div>
             </div>
