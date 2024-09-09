@@ -58,7 +58,6 @@ export default function Home() {
                     </div>
                     <div className="collapse-content">
                         <LinkButton name="👩‍💻 GitHub" url="https://github.com/harmonie_drnt" />
-                        <LinkButton name="📷 Instagram" url="https://instagram.com/harmonie_drnt" />
                         <LinkButton name="👩‍💼 LinkedIn" url="https://www.linkedin.com/in/harmonie-durrant" />
                     </div>
                 </div>
@@ -70,7 +69,6 @@ export default function Home() {
                     </div>
                     <div className="collapse-content">
                         <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
-                        <LinkButton name="Harmonie's Games" url="https://games.harmoniedurrant.com" />
                         <LinkButton name="Ash Smoked Fishes" url="https://www.ashsmokedfishes.co.uk/" />
                         <LinkButton name="Clickn' Circles" url="https://harmonie-durrant.itch.io/clickn-circles" />
                     </div>
