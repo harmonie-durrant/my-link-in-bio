@@ -68,6 +68,9 @@ export default function Home() {
                         <CategoryDividor name="Projects" />
                     </div>
                     <div className="collapse-content">
+
+                        <LinkButton name="Infinite Minesweeper (S&Box)" url="https://github.com/harmonie-durrant/3d-infinite-minesweeper" />
+                        <LinkButton name="HHA Cards (Home Assistant)" url="https://github.com/harmonie-durrant/hha-cards" />
                         <LinkButton name="Wiki42" url="https://wiki42.harmoniedurrant.com" />
                         <LinkButton name="Ash Smoked Fishes" url="https://www.ashsmokedfishes.co.uk/" />
                         <LinkButton name="Clickn' Circles" url="https://harmonie-durrant.itch.io/clickn-circles" />
